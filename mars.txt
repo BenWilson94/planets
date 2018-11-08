@@ -1,4 +1,7 @@
 Cold and dry, but everything is my favourite colour.
 The two moons may be a problem for wolfman
+<<<<<<< HEAD
 But the Mummy will appreciate the lack of humidity
 We are considering venus as a potential base also
+=======
+>>>>>>> parent of 1229a63... Disciss concerns about Mars' climate for Mummy
